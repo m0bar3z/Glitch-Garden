@@ -1,0 +1,316 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f81b174b-4a7a-49a3-9fbf-ec7f59f1330c" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+              <folding>
+                <marker date="1580308192480" expanded="false" signature="6:93" ph="..." />
+                <marker date="1580308192480" expanded="true" signature="135:467" ph="{...}" />
+                <marker date="1580308192480" expanded="true" signature="186:195" ph="{...}" />
+                <marker date="1580308192480" expanded="true" signature="232:311" ph="{...}" />
+                <marker date="1580308192480" expanded="true" signature="339:398" ph="{...}" />
+                <marker date="1580308192480" expanded="true" signature="429:464" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/SplashScreen.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="32">
+              <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+              <folding>
+                <marker date="1580317102333" expanded="false" signature="6:113" ph="..." />
+                <marker date="1580317102333" expanded="true" signature="156:450" ph="{...}" />
+                <marker date="1580317102333" expanded="true" signature="256:311" ph="{...}" />
+                <marker date="1580317102333" expanded="true" signature="383:444" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MusicPlayer.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="37" column="54" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+              <folding>
+                <marker date="1580571972272" expanded="false" signature="6:112" ph="..." />
+                <marker date="1580571972272" expanded="true" signature="156:1238" ph="{...}" />
+                <marker date="1580571972272" expanded="true" signature="239:289" ph="{...}" />
+                <marker date="1580571972272" expanded="true" signature="304:356" ph="{...}" />
+                <marker date="1580571972272" expanded="true" signature="374:565" ph="{...}" />
+                <marker date="1580571972272" expanded="true" signature="380:505" ph="/* Tell our 'OnLevelFinishedLoading' ... */" />
+                <marker date="1580571972272" expanded="true" signature="613:638" ph="{...}" />
+                <marker date="1580571972272" expanded="true" signature="700:947" ph="{...}" />
+                <marker date="1580571972272" expanded="true" signature="833:943" ph="{...}" />
+                <marker date="1580571972272" expanded="true" signature="967:1234" ph="{...}" />
+                <marker date="1580571972272" expanded="true" signature="973:1177" ph="/* Tell our 'OnLevelFinishedLoading' function to stop listening for a scene ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/Fadepanel.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+              <folding>
+                <marker date="1581435222067" expanded="false" signature="6:153" ph="..." />
+                <marker date="1581435222067" expanded="true" signature="193:753" ph="{...}" />
+                <marker date="1581435222067" expanded="true" signature="336:391" ph="{...}" />
+                <marker date="1581435222067" expanded="true" signature="411:751" ph="{...}" />
+                <marker date="1581435222067" expanded="true" signature="467:674" ph="{...}" />
+                <marker date="1581435222067" expanded="true" signature="687:748" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Fadepanel.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MusicPlayer.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/SplashScreen.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Scripts/LevelManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/SplashScreen.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MusicPlayer.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Fadepanel.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="-15" />
+    <option name="y" value="-30" />
+    <option name="width" value="1945" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+      <pane id="UnityExplorer">
+        <option name="show-hidden-items" value="false" />
+        <option name="show-project-names" value="true" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f81b174b-4a7a-49a3-9fbf-ec7f59f1330c" name="Default Changelist" comment="" />
+      <created>1564907071616</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1564907071616</updated>
+      <workItem from="1564907088292" duration="1099000" />
+      <workItem from="1564921522395" duration="617000" />
+      <workItem from="1565018232389" duration="1726000" />
+      <workItem from="1565124521816" duration="803000" />
+      <workItem from="1565125994343" duration="882000" />
+      <workItem from="1565127881711" duration="1668000" />
+      <workItem from="1565442470794" duration="1184000" />
+      <workItem from="1565519116623" duration="1709000" />
+      <workItem from="1565520867126" duration="1824000" />
+      <workItem from="1580118801135" duration="1525000" />
+      <workItem from="1580120975277" duration="599000" />
+      <workItem from="1580303039747" duration="1696000" />
+      <workItem from="1580305034962" duration="1147000" />
+      <workItem from="1580307013020" duration="1841000" />
+      <workItem from="1580316983230" duration="1095000" />
+      <workItem from="1580366981128" duration="846000" />
+      <workItem from="1580496243589" duration="783000" />
+      <workItem from="1580570741376" duration="1682000" />
+      <workItem from="1581413731191" duration="1718000" />
+      <workItem from="1581415554716" duration="701000" />
+      <workItem from="1581432660783" duration="1828000" />
+      <workItem from="1581434563940" duration="1406000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="28379000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-12" y="-24" width="1556" height="864" extended-state="1" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.48555708" visible="true" weight="0.13765182" />
+      <window_info id="Structure" order="1" sideWeight="0.5144429" side_tool="true" visible="true" weight="0.13765182" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" weight="0.3287483" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LevelManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="27" column="21" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+          <folding>
+            <marker date="1580308192480" expanded="false" signature="6:93" ph="..." />
+            <marker date="1580308192480" expanded="true" signature="135:467" ph="{...}" />
+            <marker date="1580308192480" expanded="true" signature="186:195" ph="{...}" />
+            <marker date="1580308192480" expanded="true" signature="232:311" ph="{...}" />
+            <marker date="1580308192480" expanded="true" signature="339:398" ph="{...}" />
+            <marker date="1580308192480" expanded="true" signature="429:464" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/SplashScreen.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="6" column="1" selection-start-line="6" selection-start-column="1" selection-end-line="6" selection-end-column="1" />
+          <folding>
+            <marker date="1580317102333" expanded="false" signature="6:113" ph="..." />
+            <marker date="1580317102333" expanded="true" signature="156:450" ph="{...}" />
+            <marker date="1580317102333" expanded="true" signature="256:311" ph="{...}" />
+            <marker date="1580317102333" expanded="true" signature="383:444" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MusicPlayer.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="37" column="54" selection-start-line="37" selection-start-column="54" selection-end-line="37" selection-end-column="54" />
+          <folding>
+            <marker date="1580571972272" expanded="false" signature="6:112" ph="..." />
+            <marker date="1580571972272" expanded="true" signature="156:1238" ph="{...}" />
+            <marker date="1580571972272" expanded="true" signature="239:289" ph="{...}" />
+            <marker date="1580571972272" expanded="true" signature="304:356" ph="{...}" />
+            <marker date="1580571972272" expanded="true" signature="374:565" ph="{...}" />
+            <marker date="1580571972272" expanded="true" signature="380:505" ph="/* Tell our 'OnLevelFinishedLoading' ... */" />
+            <marker date="1580571972272" expanded="true" signature="613:638" ph="{...}" />
+            <marker date="1580571972272" expanded="true" signature="700:947" ph="{...}" />
+            <marker date="1580571972272" expanded="true" signature="833:943" ph="{...}" />
+            <marker date="1580571972272" expanded="true" signature="967:1234" ph="{...}" />
+            <marker date="1580571972272" expanded="true" signature="973:1177" ph="/* Tell our 'OnLevelFinishedLoading' function to stop listening for a scene ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Fadepanel.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="12" column="26" selection-start-line="12" selection-start-column="26" selection-end-line="12" selection-end-column="26" />
+          <folding>
+            <marker date="1581435222067" expanded="false" signature="6:153" ph="..." />
+            <marker date="1581435222067" expanded="true" signature="193:753" ph="{...}" />
+            <marker date="1581435222067" expanded="true" signature="336:391" ph="{...}" />
+            <marker date="1581435222067" expanded="true" signature="411:751" ph="{...}" />
+            <marker date="1581435222067" expanded="true" signature="467:674" ph="{...}" />
+            <marker date="1581435222067" expanded="true" signature="687:748" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
